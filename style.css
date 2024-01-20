@@ -1,0 +1,34 @@
+body{
+    background: url('https://yt3.ggpht.com/fVFQ_drqRmLbAxURov1Srqjk9EFL4Ex_2ii25WeUq229Cz5MX0ay-XmyVBlplAjTc_Qjw8knD6brkA=s600-c-fcrop64=1,00000000ffffffff-nd-v1');
+}
+
+img{
+    height: 228px;
+}
+
+h1{
+    text-align: center;
+    color: cyan;
+    font-size: 36px;
+}
+
+h2{
+    color:azure;
+    font-size: 30px;
+}
+
+h3{
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 24px;
+    text-align: center;
+}
+
+a{
+    font-size: 24px;
+    color: darkslategray;
+    text-decoration: none;
+}
+
+p{
+    text-align: center;
+}
